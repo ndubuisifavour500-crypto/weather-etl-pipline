@@ -1,0 +1,5 @@
+city_name,country,temperature_c,feels_like_c,humidity,pressure_hpa,weather_main,weather_description,wind_speed_ms,clouds_percent,extracted_at
+Lagos,NG,27.59,30.97,79,1014,Rain,light rain,2.64,90,2026-07-14 11:09:45
+Accra,GH,25.9,26.66,81,1015,Rain,light rain,4.96,100,2026-07-14 11:09:45
+Nairobi,KE,23.62,23.19,44,1016,Clouds,few clouds,3.58,13,2026-07-14 11:09:45
+London,GB,22.55,22.61,67,1021,Clouds,scattered clouds,2.24,34,2026-07-14 11:09:45
